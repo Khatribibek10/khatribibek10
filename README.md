@@ -22,9 +22,9 @@ As a passionate developer, I focus on delivering clean code, modular structure, 
 - **Languages**: PHP, JavaScript, SQL  
 - **Backend**: Laravel, Lumen, RESTful APIs, Multi-tenancy Architecture  
 - **Authentication**: JWT, Sanctum, Passport  
-- **Payment Integration**: eSewa, Khalti, Stripe  
+- **Payment Integration**: eSewa, Khalti, Fonepay, Stripe  
 - **Tools**: Git, Postman, Swagger, Docker (basic), Composer  
-- **Databases**: MySQL, PostgreSQL  
+- **Databases**: MySQL, PostgreSQL, Oracle 
 - **Others**: Debugging, API testing, Repository Pattern, MVC, Clean Code
 
 ---
